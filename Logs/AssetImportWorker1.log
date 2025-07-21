@@ -231,3 +231,27 @@ Received Import Request.
 Start importing Assets/Materials/New Material.mat using Guid(68695265caa3d6a4184b7efc3bd386c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c17266116e390be44874f465bf47a1e') in 0.897550 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 401.043531 seconds.
+  path: Assets/Fbx/texture/Ch43_1001_Glossiness.png
+  artifactKey: Guid(42407f3638f4b424a88c8e84269ec90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fbx/texture/Ch43_1001_Glossiness.png using Guid(42407f3638f4b424a88c8e84269ec90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d1302c71b43ebdc29690715a8b6046') in 0.044380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Fbx/texture/Ch43_1001_Specular.png
+  artifactKey: Guid(7f22902ff6daf844abbbb836b7953d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Fbx/texture/Ch43_1001_Specular.png using Guid(7f22902ff6daf844abbbb836b7953d87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '634056b4fc56fcf7f6511d330ff804d9') in 0.027603 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 74.285653 seconds.
+  path: Assets/Materials/Wall.mat
+  artifactKey: Guid(eca5e32b140a07d4fbf4c1ca6af58696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Wall.mat using Guid(eca5e32b140a07d4fbf4c1ca6af58696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b53c4c88d7b84ba1ee30bbfdeb96ac') in 0.419221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
