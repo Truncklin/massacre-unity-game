@@ -97,7 +97,7 @@ Material:
     - _Count: 0.7
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DeformRadius: 0.1
+    - _DeformRadius: 0.05
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -134,6 +134,8 @@ Material:
     - _HighlightColor: {r: 1, g: 1, b: 0, a: 1}
     - _HitColor: {r: 1, g: 0, b: 0, a: 1}
     - _HitPosition: {r: 0, g: 1.84, b: 0, a: 0}
+    - _HitPosition_Left: {r: 0, g: 0, b: 0, a: 0}
+    - _HitPosition_Right: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
